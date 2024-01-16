@@ -3,15 +3,15 @@ The first version of the Adenosine Desktop Environment.
 Recommended Distros: Debian, Ubuntu
 
 # Dependencies
-I3 Window Manager (i3)
-Nitrogen
-Adwaita Icon Theme (adwaita-icon-theme)
-Gnome Panel (gnome-panel)
-Plank
+I3 Window Manager (i3),
+Nitrogen,
+Adwaita Icon Theme (adwaita-icon-theme),
+Gnome Panel (gnome-panel),
+Plank,
 Xorg
 
 # How to Install
-1. Install the dependencies
+1. Install the dependencies:
    sudo apt install i3 nitrogen adwaita-icon-theme gnome-panel plank xorg
 3. Move adenoDE.sh to /bin/
   mv [directory location]/adenoDE.sh /bin/
