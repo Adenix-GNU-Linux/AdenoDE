@@ -1,6 +1,6 @@
 # AdenoDE-1.0
 The first version of the Adenosine Desktop Environment.
-Recommended Distros: Debian, Ubuntu
+(Recommended Distros: Debian, Ubuntu)
 
 # Dependencies
 I3 Window Manager (i3),
@@ -14,9 +14,9 @@ Xorg
 1. Install the dependencies:
    sudo apt install i3 nitrogen adwaita-icon-theme gnome-panel plank xorg
 3. Move adenoDE.sh to /bin/
-  mv [directory location]/adenoDE.sh /bin/
+  (mv [directory location]/adenoDE.sh /bin/)
 5. Move adenoDE.desktop to /usr/share/xsessions
-  mv [directory location]/adenoDE.desktop /usr/share/xsessions
+  (mv [directory location]/adenoDE.desktop /usr/share/xsessions)
 # Usage
 1. Logging in
   a. Log out of current desktop environment (if using for first time)
