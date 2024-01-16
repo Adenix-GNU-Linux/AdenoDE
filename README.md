@@ -12,7 +12,7 @@ Xorg
 
 # How to Install
 1. Install the dependencies
-  sudo apt install i3 nitrogen adwaita-icon-theme gnome-panel plank xorg
+   sudo apt install i3 nitrogen adwaita-icon-theme gnome-panel plank xorg
 3. Move adenoDE.sh to /bin/
   mv [directory location]/adenoDE.sh /bin/
 5. Move adenoDE.desktop to /usr/share/xsessions
