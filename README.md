@@ -1,6 +1,7 @@
 # AdenoDE-1.0
 The first version of the Adenosine Desktop Environment.
 (Recommended Distros: Debian, Ubuntu)
+Note: Live ISO addition is in beta testing.
 
 # Dependencies
 I3 Window Manager (i3),
