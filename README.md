@@ -1,4 +1,4 @@
-# AdenoDE-1.0
+# AdenoDE-1.0 Beta
 The first version of the Adenosine Desktop Environment.
 (Recommended Distros: Debian, Ubuntu)
 Note: Live ISO addition is in beta testing.
